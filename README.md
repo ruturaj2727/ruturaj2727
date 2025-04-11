@@ -1,6 +1,8 @@
 <!-- Banner Section -->
 <h1 align="center">Hey Everyone 👋, I'm Ruturaj Sonone</h1>
-
+<div align="center">
+<img src="https://github.com/ruturaj2727/ruturaj2727/blob/main/Macro_Social_16x9.png" alt="" width="100%">
+</div>
 
 <h3 align="center">A passionate Cloud & DevOps Engineer and Full Stack (Frontend) Enthusiast from India. Exploring AWS, GCP, Terraform, CI/CD, and everything in between ☁️ and Full Stack </h3>
 
