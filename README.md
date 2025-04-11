@@ -31,7 +31,7 @@
 - 🧩 Preparing for Certifications across AWS, GCP, Oracle, and Azure
 - 🔍 Keen learner of Cloud & DevOps Technologies | Continious learning automation tools like Terraform, Prometheus, Grafana, Helm, and Ansible
 - 👨‍🏫 Active Member Of AWS Emerging Talent Community | Collaborator| Contributor | Blogger
-- 📫 Reach me at: [ruturajsonone2727@gmail.com](mailto:[ruturajsonone2727@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ruturajsonone@gmail.com))
+- 📫 Reach me at: [ruturajsonone@gmail.com](mailto:[ruturajsonone@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ruturajsonone@gmail.com))
 
 > *"Let's build and automate the future, one pipeline at a time!"*
 
