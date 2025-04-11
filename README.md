@@ -41,6 +41,9 @@
 
 #### 🚀 Cloud & DevOps
 <p>
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  </a>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="AWS" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" title="GCP" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" title="Azure" />
@@ -94,10 +97,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruturaj2727&show_icons=true&theme=vue&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruturaj2727&layout=compact&theme=vue&hide_border=true" width="47%" />
-</p>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ruturaj2727&show_icons=true&theme=radical" alt="ruturaj2727" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruturaj2727&show_icons=true&locale=en&layout=compact&theme=radical" alt="ruturaj2727" />
+</div>
 
 ---
 
