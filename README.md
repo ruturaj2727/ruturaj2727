@@ -124,6 +124,7 @@
 
 ### 📜 Certifications
 
+- 🏅☁️ Microsoft Certified Azure Fundamental (AZ:900) — *Microsoft Certified*
 - 🏅☁️ Kode Kloud Certified AWS Cloud Practitioner — *Issued by Kode Kloud*
 - 🏅☁️ AWS Cloud Quest: Cloud Practitioner — *Issued by AWS*
 - 🏅☁️ Associate Cloud Engineer (ACE) Track — *Issued by Google Cloud*
