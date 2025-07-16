@@ -1,18 +1,18 @@
-<!-- Banner Section -->
+<!-- ✨ Ruturaj Sonone | Cloud & DevOps Engineer ✨ -->
+
 <h1 align="center">Hey Everyone 👋, I'm Ruturaj Sonone</h1>
+
 <div align="center">
-<img src="https://github.com/ruturaj2727/ruturaj2727/blob/main/Macro_Social_16x9.png" alt="" width="100%">
+  <img src="https://github.com/ruturaj2727/ruturaj2727/blob/main/Macro_Social_16x9.png" width="100%" alt="Ruturaj Banner">
 </div>
 
-<h3 align="center">A passionate Cloud & DevOps Engineer and Full Stack (Frontend) Enthusiast from India. Exploring AWS, GCP, Terraform, CI/CD, and everything in between ☁️ and Full Stack </h3>
+<h3 align="center">A passionate Cloud & DevOps Engineer and Frontend Enthusiast from India. Exploring AWS, GCP, Terraform, CI/CD, and everything in between ☁️</h3>
 
 <p align="center">
   <a href="https://github.com/ruturaj2727"><img src="https://img.shields.io/github/followers/ruturaj2727?label=Follow&style=social" /></a>
   <a href="https://linkedin.com/in/ruturaj-sonone-552b7623b/"><img src="https://img.shields.io/badge/LinkedIn-Ruturaj%20Sonone-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="https://medium.com/@ruturajsonone">
-  <img src="https://img.shields.io/badge/Medium-Ruturaj%20Sonone-black?logo=medium&style=flat-square" />
-</a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=ruturajsonone@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat-square" /></a>
+  <a href="https://medium.com/@ruturajsonone"><img src="https://img.shields.io/badge/Medium-Ruturaj%20Sonone-black?logo=medium&style=flat-square" /></a>
+  <a href="mailto:ruturajsonone@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat-square" /></a>
   <a href="https://linktr.ee/ruturaj_sonone"><img src="https://img.shields.io/badge/Linktree-Ruturaj-green?logo=linktree&style=flat-square" /></a>
 </p>
 
@@ -24,63 +24,73 @@
 
 ---
 
+
 ### 💡 About Me
 
-- 🛠️ Bachelor Of Technology (B-Tech) 2025 | Computer Science Engineering (CSE) Student 
-- 🌩️ Cloud Engineer Intern @ DC Infotech (AWS | GCP) | Ex Cloud Engineer Intern @ Cloud Counselage (AWS | GCP)
-- 🧩 Preparing for Certifications across AWS, GCP, Oracle, and Azure
-- 🔍 Keen learner of Cloud & DevOps Technologies | Continious learning automation tools like Terraform, Prometheus, Grafana, Helm, and Ansible
-- 👨‍🏫 Active Member Of AWS Emerging Talent Community | Collaborator| Contributor | Blogger
-- 📫 Reach me at: [ruturajsonone@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=ruturajsonone@gmail.com))
+**Cloud & DevOps enthusiast experienced in designing and deploying scalable infrastructure using AWS, GCP, Microsoft Azure and Terraform.**  
+I specialize in automating end-to-end CI/CD pipelines, container orchestration, and infrastructure provisioning using tools like **Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD, Prometheus and Ansible**.
+
+My work involves production-ready implementations of **GitOps** (ArgoCD), observability stacks (**Prometheus, Grafana, CloudWatch**), load balancing, auto scaling, and monitoring in **multi-cloud environments**.  
+Strong believer in **IaC**, I use **Terraform and Helm** to provision repeatable infrastructure, ensuring cloud-native, secure, and resilient architectures.
 
 > *"Let's build and automate the future, one pipeline at a time!"*
 
 ---
 
+💡 **Tools & Technologies:**  
+- ☁️ **Cloud Platforms:** AWS, GCP, Azure  
+- 🔧 **IaC & Provisioning:** Terraform, Ansible, Helm  
+- 📦 **Containers & Orchestration:** Docker, Kubernetes  
+- 🔁 **CI/CD & Automation:** GitHub Actions, GitLab CI/CD, Jenkins  
+- 📊 **Monitoring & Observability:** Prometheus, Grafana, CloudWatch  
+- 🔐 **Security & Identity:** IAM, VPC, SSL, Secrets Management  
+- 🌐 **Web Stack:** Nginx, React, Next.js, MongoDB, MySQL  
+- 🧠 **Languages & Scripting:** Python, JavaScript, Bash, YAML  
+
+Always learning, building, and simplifying infrastructure — one pipeline at a time.
+
 ---
 
 ### 🧠 Tech Stack
 
-#### 🚀 Cloud & DevOps
+#### ☁️ Cloud & DevOps
 <p>
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="AWS" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" title="GCP" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" title="Azure" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" title="Terraform" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" title="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" title="Kubernetes" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" title="Ansible" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" title="Jenkins" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" title="Nginx" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="75" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
 </p>
 
 #### 💻 Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" title="Bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" />
 </p>
 
 #### 🌐 Full Stack
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React" />
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" title="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
 </p>
 
 #### 🧩 Databases
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
 ---
@@ -88,25 +98,28 @@
 ### 📁 Projects
 
 - 🛒 [Amazon Price Tracker](https://github.com/ruturaj2727/Amazon-Price-Tracker) — Next.js + MongoDB + BrightData
-- 🌐 [Static Website Hosting on AWS S3](https://github.com/ruturaj2727/AWS-Projects) — EC2, CloudFront, Auto Scaling
-- 💾 [RDS with EC2 Connection](https://github.com/ruturaj2727/AWS-Projects) — Set up secure RDS instance and connected via EC2 using MySQL
-- 📈 [Monitoring with CloudWatch](https://github.com/ruturaj2727/AWS-Projects) — Enabled alarms, metrics, and custom dashboards for EC2
-- 🔁 [Auto Scaling and Load Balancing](https://github.com/ruturaj2727/AWS-Projects) — Configured ALB and Auto Scaling Groups for web app
-- ⚙️ [Serverless with AWS Lambda](https://github.com/ruturaj2727/AWS-Projects) — Deployed event-driven functions and integrated with API Gateway
-- [Static Website Hosting on AWS S3](https://github.com/ruturaj2727/AWS-Projects) — EC2, CloudFront, Auto Scaling
+- 🌐 [Static Website Hosting on AWS S3](https://github.com/ruturaj2727/AWS-Projects)
+- 💾 [RDS with EC2 Connection](https://github.com/ruturaj2727/AWS-Projects)
+- 📈 [Monitoring with CloudWatch](https://github.com/ruturaj2727/AWS-Projects)
+- 🔁 [Auto Scaling and Load Balancing](https://github.com/ruturaj2727/AWS-Projects)
+- ⚙️ [Serverless with AWS Lambda](https://github.com/ruturaj2727/AWS-Projects)
+
+---
+
+### ✍️ Blog & Tutorials
+
+- 🔗 [Building a Serverless REST API on AWS](https://medium.com/@ruturajsonone/building-a-serverless-rest-api-on-aws-using-api-gateway-lambda-testing-with-postman-7b5cb72fd1c8)
+- 🔗 [Setup Kubernetes Cluster with AWS EKS & Terraform](https://medium.com/@ruturajsonone/setup-kubernetes-cluster-with-aws-eks-and-terraform-bf0eab088300)
+- 🔗 [Modern DevOps with AWS: GenAI, GitOps & Serverless](https://medium.com/@ruturajsonone/modern-devops-with-aws-leveraging-genai-gitops-and-serverless-in-2025-8dcefaa51d7d)
 
 ---
 
 ### 📊 GitHub Stats
 
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ruturaj2727&show_icons=true&theme=radical" alt="ruturaj2727" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruturaj2727&show_icons=true&locale=en&layout=compact&theme=radical" alt="ruturaj2727" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruturaj2727&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruturaj2727&layout=compact&theme=radical" />
+</p>
 
 ---
 
@@ -114,25 +127,20 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ruturaj2727&theme=darkhub&no-frame=true&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ruturaj2727&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=ruturaj2727&theme=vue&hide_border=true" />
 </p>
 
 ---
 
 ### 📜 Certifications
 
-- 🏅☁️ Microsoft Certified Azure Fundamental (AZ:900) — *Microsoft Certified*
-- 🏅☁️ Kode Kloud Certified AWS Cloud Practitioner — *Issued by Kode Kloud*
-- 🏅☁️ AWS Cloud Quest: Cloud Practitioner — *Issued by AWS*
-- 🏅☁️ Associate Cloud Engineer (ACE) Track — *Issued by Google Cloud*
-- 🏅☁️ AWS Cloud Practitioner Essentials — *Issued by AWS*
-- 🏅☁️ AWS Academy Cloud Foundations — *Issued by AWS*
-- 🏅☁️ AWS Academy Cloud Architecting — *Issued by AWS*
-- 🏅☁️ Oracle Cloud Infrastructure AI Foundations Associate — *Issued by Oracle*
-
+- ☁️ Microsoft Certified Azure Fundamentals (AZ-900)
+- ☁️ AWS Cloud Practitioner Essentials
+- ☁️ AWS Cloud Quest: Cloud Practitioner
+- ☁️ Google Cloud ACE Track
+- ☁️ Oracle Cloud Infrastructure Foundations & AI Associate
+- ☁️ KodeKloud AWS Cloud Practitioner
+- ☁️ AWS Academy Cloud Foundations & Architecting
 
 ---
 
@@ -144,19 +152,17 @@
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let’s Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/ruturaj-sonone-552b7623b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href=""https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=ruturajsonone@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" /></a>
-  <a href="https://medium.com/@ruturajsonone" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-</a>
-  <a href="https://linktr.ee/ruturaj_sonone" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linktree/linktree-icon.svg" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/ruturaj-sonone-552b7623b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:ruturajsonone@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://medium.com/@ruturajsonone"><img src="https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge" /></a>
+  <a href="https://linktr.ee/ruturaj_sonone"><img src="https://img.shields.io/badge/Linktree-green?logo=linktree&style=for-the-badge" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <b>“Helping engineers grow through open-source and cloud-native tech. Let’s build something impactful together!”</b>
+  <strong>“Helping engineers grow through open-source and cloud-native tech. Let’s build something impactful together!”</strong>
 </p>
