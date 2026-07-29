@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/ruturaj2727/ruturaj2727/blob/main/Macro_Social_16x9.png" alt="banner" width="100%">
-
-# R U T U R A J &nbsp; S O N O N E
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Ruturaj%20Sonone&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevSecOps%20Engineer&descAlignY=58&descSize=20" width="100%">
 
 ### **Cloud & DevSecOps Engineer • AWS | GCP | Azure**
 
-`Cloud Engineering` • `DevSecOps` • `CI/CD` • `IaC` • `Kubernetes` • `GitOps` • `Cyber Security`
+`Cloud Engineering` • `DevSecOps` • `CI/CD` • `IaC` • `Kubernetes` • `GitOps` • `Cloud Security`
 
 ### *Building secure, automated, cloud-native infrastructure — one pipeline at a time.*
 
@@ -26,9 +24,9 @@
 
 I'm a Cloud & DevSecOps Engineer from India, currently pursuing **PGCP in IT Infrastructure, Systems & Security (PGCP-ITISS) at CDAC**, building on a BTech in Computer Science.
 
-I specialize in designing and deploying **secure, scalable cloud infrastructure** across **AWS, GCP, and Azure**, with hands-on experience through a Cloud Engineer internship (GCP & AWS). My work spans **CI/CD automation, container orchestration, Infrastructure as Code, and cloud security** — bridging traditional DevOps with a security-first mindset.
+I specialize in designing and deploying **secure, scalable cloud infrastructure** across **AWS, GCP, and Azure**, with hands-on experience through a Cloud Engineer internship (GCP & AWS). My work spans **CI/CD automation, container orchestration, Infrastructure as Code, and cloud/application security** — bridging traditional DevOps with a security-first mindset.
 
-I enjoy building GitOps-driven deployments, observability stacks, and automating infrastructure that's both resilient and secure.
+I enjoy building GitOps-driven deployments, security tooling, and automating infrastructure that's both resilient and secure.
 
 > *"Let's build and secure the future, one pipeline at a time!"*
 
@@ -57,12 +55,14 @@ I enjoy building GitOps-driven deployments, observability stacks, and automating
 
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ## 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
@@ -82,8 +82,8 @@ I enjoy building GitOps-driven deployments, observability stacks, and automating
 <table>
   <tr>
     <td>DevSecOps</td>
-    <td>IT Infrastructure & Security</td>
-    <td>Cloud Security</td>
+    <td>Cloud Security Labs</td>
+    <td>Application Security</td>
   </tr>
   <tr>
     <td>Kubernetes & GitOps</td>
@@ -98,7 +98,7 @@ I enjoy building GitOps-driven deployments, observability stacks, and automating
   <tr>
     <td>Compliance & Audit</td>
     <td>Container Security (Trivy, SonarQube)</td>
-    <td>Observability (Prometheus/Grafana)</td>
+    <td>OWASP Top 10</td>
   </tr>
 </table>
 
@@ -106,15 +106,25 @@ I enjoy building GitOps-driven deployments, observability stacks, and automating
 
 # 📂 Featured Projects
 
+### 🔐 Security Engineering
+
 | Project | Description |
 |----------|-------------|
-| 🛒 [Amazon Price Tracker](https://github.com/ruturaj2727/Amazon-Price-Tracker) | Next.js + MongoDB + BrightData |
-| ⚙️ [AWS EKS CI/CD Pipeline](https://github.com/ruturaj2727/AWS-Projects) | Jenkins + ArgoCD + Terraform + Trivy + Prometheus-Grafana |
-| 🌐 [Static Website Hosting on AWS S3](https://github.com/ruturaj2727/AWS-Projects) | S3 static hosting setup |
-| 💾 [RDS with EC2 Connection](https://github.com/ruturaj2727/AWS-Projects) | Database connectivity on AWS |
-| 📈 [Monitoring with CloudWatch](https://github.com/ruturaj2727/AWS-Projects) | AWS-native observability |
-| 🔁 [Auto Scaling & Load Balancing](https://github.com/ruturaj2727/AWS-Projects) | High-availability architecture |
-| ⚙️ [Serverless with AWS Lambda](https://github.com/ruturaj2727/AWS-Projects) | Event-driven serverless functions |
+| 🛡️ [CloudSentinel — AWS Security Lab](https://github.com/ruturaj2727/CloudSentinel-AWS-Security-Lab) | Terraform-built AWS security lab simulating real attacks — SSRF credential theft, IAM privilege escalation, S3 misconfiguration, secrets exposure, and Lambda privilege escalation, with detection & remediation strategies |
+| 🔎 [API Sentinel — Security Scanner](https://github.com/ruturaj2727/API-Sentinel-Security-Scanner) | Full-stack API vulnerability scanner targeting the OWASP API Security Top 10, with configurable scan modules and a React dashboard |
+| 🐳 [DockerGuard — Container Security Auditor](https://github.com/ruturaj2727/DockerGuard---Container-Security-Auditor) | Automated Docker security auditing tool that analyzes container images, configs, and runtime settings for vulnerabilities and misconfigurations |
+| 🕵️ [MetaShield — Privacy Metadata Scrubber](https://github.com/ruturaj2727/MetaShield---Privacy-Metadata-Scrubber) | Privacy-focused metadata removal tool that scans and sanitizes files to prevent accidental data exposure |
+
+### ⚙️ DevSecOps & Cloud Infrastructure
+
+| Project | Description |
+|----------|-------------|
+| 🎮 [Kubernetes DevSecOps — Tetris Project](https://github.com/ruturaj2727/End-to-End-Kubernetes-DevSecOps-Tetris-Project) | End-to-end DevSecOps pipeline deploying Tetris on AWS EKS — Jenkins CI/CD, ArgoCD GitOps, Terraform IaC, Trivy scanning, OWASP Dependency-Check, and SonarQube |
+| 🧱 [Three-Tier Kubernetes DevSecOps Project](https://github.com/ruturaj2727/End_to_End-Kubernetes-Three-Tier-DevSecOps-Project) | Three-tier React + Node.js + MongoDB app deployed on AWS EKS with Terraform, Jenkins, ArgoCD, Helm, and Prometheus-Grafana monitoring |
+| ☸️ [Kubernetes Cluster Setup — AWS EKS + Terraform](https://github.com/ruturaj2727/Setup-Kubernetes-Cluster-with-AWS-EKS-and-Terraform) | Automated provisioning of an Amazon EKS cluster using Terraform |
+| 🐋 [Dockerized Flask App on AWS](https://github.com/ruturaj2727/Dockerized-Flask-Application-On-AWS) | Dockerized Flask application deployed on AWS EC2 with GitHub Actions CI/CD and Terraform |
+| 🌐 [Nginx Reverse Proxy — DevOps Assignment](https://github.com/ruturaj2727/devops-nginx-reverse-proxy) | Nginx reverse proxy configuration and deployment exercise |
+| ☁️ [AWS Projects Collection](https://github.com/ruturaj2727/AWS-Projects) | S3 static hosting, RDS-EC2 connectivity, CloudWatch monitoring, auto scaling & load balancing, and serverless Lambda functions |
 
 ---
 
@@ -174,5 +184,7 @@ I enjoy building GitOps-driven deployments, observability stacks, and automating
 [![Linktree](https://img.shields.io/badge/Linktree-green?logo=linktree&style=for-the-badge)](https://linktr.ee/ruturaj_sonone)
 
 ### 💬 *"Building and securing cloud-native systems, one pipeline at a time. Let's connect and grow together!"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%">
 
 </div>
