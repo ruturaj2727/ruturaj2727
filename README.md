@@ -1,112 +1,124 @@
-<!-- ✨ Ruturaj Sonone | Cloud & DevOps Engineer ✨ -->
-
-<h1 align="center">Hey Everyone 👋, I'm Ruturaj Sonone</h1>
-
 <div align="center">
-  <img src="https://github.com/ruturaj2727/ruturaj2727/blob/main/Macro_Social_16x9.png" width="100%" alt="Ruturaj Banner">
+
+<img src="https://github.com/ruturaj2727/ruturaj2727/blob/main/Macro_Social_16x9.png" alt="banner" width="100%">
+
+# R U T U R A J &nbsp; S O N O N E
+
+### **Cloud & DevSecOps Engineer • AWS | GCP | Azure**
+
+`Cloud Engineering` • `DevSecOps` • `CI/CD` • `IaC` • `Kubernetes` • `GitOps` • `Cyber Security`
+
+### *Building secure, automated, cloud-native infrastructure — one pipeline at a time.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruturaj-sonone-552b7623b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ruturaj2727)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ruturajsonone@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ruturajsonone)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/ruturaj_sonone)
+
+<img src="https://komarev.com/ghpvc/?username=ruturaj2727&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </div>
 
-<h3 align="center">A passionate Cloud & DevOps Engineer and Frontend Enthusiast from India. Exploring AWS, GCP, Terraform, CI/CD, and everything in between ☁️</h3>
+---
 
-<p align="center">
-  <a href="https://github.com/ruturaj2727"><img src="https://img.shields.io/github/followers/ruturaj2727?label=Follow&style=social" /></a>
-  <a href="https://linkedin.com/in/ruturaj-sonone-552b7623b/"><img src="https://img.shields.io/badge/LinkedIn-Ruturaj%20Sonone-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="https://medium.com/@ruturajsonone"><img src="https://img.shields.io/badge/Medium-Ruturaj%20Sonone-black?logo=medium&style=flat-square" /></a>
-  <a href="mailto:ruturajsonone@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat-square" /></a>
-  <a href="https://linktr.ee/ruturaj_sonone"><img src="https://img.shields.io/badge/Linktree-Ruturaj-green?logo=linktree&style=flat-square" /></a>
-</p>
+# 👋 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+I'm a Cloud & DevSecOps Engineer from India, currently pursuing **PGCP in IT Infrastructure, Systems & Security (PGCP-ITISS) at CDAC**, building on a BTech in Computer Science.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ruturaj2727&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+I specialize in designing and deploying **secure, scalable cloud infrastructure** across **AWS, GCP, and Azure**, with hands-on experience through a Cloud Engineer internship (GCP & AWS). My work spans **CI/CD automation, container orchestration, Infrastructure as Code, and cloud security** — bridging traditional DevOps with a security-first mindset.
+
+I enjoy building GitOps-driven deployments, observability stacks, and automating infrastructure that's both resilient and secure.
+
+> *"Let's build and secure the future, one pipeline at a time!"*
 
 ---
 
+# ⚡ Tech Stack
 
-### 💡 About Me
+## ☁️ Cloud
 
-**Cloud & DevOps enthusiast experienced in designing and deploying scalable infrastructure using AWS, GCP, Microsoft Azure and Terraform.**  
-I specialize in automating end-to-end CI/CD pipelines, container orchestration, and infrastructure provisioning using tools like **Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD, Prometheus and Ansible**.
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-My work involves production-ready implementations of **GitOps** (ArgoCD), observability stacks (**Prometheus, Grafana, CloudWatch**), load balancing, auto scaling, and monitoring in **multi-cloud environments**.  
-Strong believer in **IaC**, I use **Terraform and Helm** to provision repeatable infrastructure, ensuring cloud-native, secure, and resilient architectures.
+## 🚀 DevOps & IaC
 
-> *"Let's build and automate the future, one pipeline at a time!"*
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLabCI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
+## 🔐 Security & Monitoring
 
-💡 **Tools & Technologies:**  
-- ☁️ **Cloud Platforms:** AWS, GCP, Azure  
-- 🔧 **IaC & Provisioning:** Terraform, Ansible, Helm  
-- 📦 **Containers & Orchestration:** Docker, Kubernetes  
-- 🔁 **CI/CD & Automation:** GitHub Actions, GitLab CI/CD, Jenkins  
-- 📊 **Monitoring & Observability:** Prometheus, Grafana, CloudWatch  
-- 🔐 **Security & Identity:** IAM, VPC, SSL, Secrets Management  
-- 🌐 **Web Stack:** Nginx, React, Next.js, MongoDB, MySQL  
-- 🧠 **Languages & Scripting:** Python, JavaScript, Bash, YAML  
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-Always learning, building, and simplifying infrastructure — one pipeline at a time.
+## 💻 Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 Tech Stack
+## 🌐 Web Stack
 
-#### ☁️ Cloud & DevOps
-<p>
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="75" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
-</p>
-
-#### 💻 Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" />
-</p>
-
-#### 🌐 Full Stack
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-</p>
-
-#### 🧩 Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-</p>
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-### 📁 Projects
+# 🧠 Current Focus
 
-- 🛒 [Amazon Price Tracker](https://github.com/ruturaj2727/Amazon-Price-Tracker) — Next.js + MongoDB + BrightData
-- 🌐 [Static Website Hosting on AWS S3](https://github.com/ruturaj2727/AWS-Projects)
-- 💾 [RDS with EC2 Connection](https://github.com/ruturaj2727/AWS-Projects)
-- 📈 [Monitoring with CloudWatch](https://github.com/ruturaj2727/AWS-Projects)
-- 🔁 [Auto Scaling and Load Balancing](https://github.com/ruturaj2727/AWS-Projects)
-- ⚙️ [Serverless with AWS Lambda](https://github.com/ruturaj2727/AWS-Projects)
+<table>
+  <tr>
+    <td>DevSecOps</td>
+    <td>IT Infrastructure & Security</td>
+    <td>Cloud Security</td>
+  </tr>
+  <tr>
+    <td>Kubernetes & GitOps</td>
+    <td>CI/CD Automation</td>
+    <td>Infrastructure as Code</td>
+  </tr>
+  <tr>
+    <td>Cyber Forensics</td>
+    <td>Network Defense</td>
+    <td>PKI & Information Security</td>
+  </tr>
+  <tr>
+    <td>Compliance & Audit</td>
+    <td>Container Security (Trivy, SonarQube)</td>
+    <td>Observability (Prometheus/Grafana)</td>
+  </tr>
+</table>
 
 ---
 
-### ✍️ Blog & Tutorials
+# 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🛒 [Amazon Price Tracker](https://github.com/ruturaj2727/Amazon-Price-Tracker) | Next.js + MongoDB + BrightData |
+| ⚙️ [AWS EKS CI/CD Pipeline](https://github.com/ruturaj2727/AWS-Projects) | Jenkins + ArgoCD + Terraform + Trivy + Prometheus-Grafana |
+| 🌐 [Static Website Hosting on AWS S3](https://github.com/ruturaj2727/AWS-Projects) | S3 static hosting setup |
+| 💾 [RDS with EC2 Connection](https://github.com/ruturaj2727/AWS-Projects) | Database connectivity on AWS |
+| 📈 [Monitoring with CloudWatch](https://github.com/ruturaj2727/AWS-Projects) | AWS-native observability |
+| 🔁 [Auto Scaling & Load Balancing](https://github.com/ruturaj2727/AWS-Projects) | High-availability architecture |
+| ⚙️ [Serverless with AWS Lambda](https://github.com/ruturaj2727/AWS-Projects) | Event-driven serverless functions |
+
+---
+
+# ✍️ Blog & Tutorials
 
 - 🔗 [Building a Serverless REST API on AWS](https://medium.com/@ruturajsonone/building-a-serverless-rest-api-on-aws-using-api-gateway-lambda-testing-with-postman-7b5cb72fd1c8)
 - 🔗 [Setup Kubernetes Cluster with AWS EKS & Terraform](https://medium.com/@ruturajsonone/setup-kubernetes-cluster-with-aws-eks-and-terraform-bf0eab088300)
@@ -114,55 +126,53 @@ Always learning, building, and simplifying infrastructure — one pipeline at a 
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruturaj2727&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruturaj2727&layout=compact&theme=radical" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=ruturaj2727&show_icons=true&theme=radical" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruturaj2727&layout=compact&theme=radical" width="49%" />
 
-### 🔥 Contribution Streak & Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=ruturaj2727&theme=darkhub&no-frame=true&column=7" />
+<img src="https://streak-stats.demolab.com?user=ruturaj2727&theme=vue&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruturaj2727&theme=darkhub&no-frame=true&column=7" />
-  <img src="https://streak-stats.demolab.com?user=ruturaj2727&theme=vue&hide_border=true" />
-</p>
+</div>
 
 ---
 
-### 📜 Certifications
+# 📜 Certifications
 
-- ☁️ Microsoft Certified Azure Fundamentals (AZ-900)
-- ☁️ AWS Cloud Practitioner Essentials
-- ☁️ AWS Cloud Quest: Cloud Practitioner
-- ☁️ Google Cloud ACE Track
-- ☁️ Oracle Cloud Infrastructure Foundations & AI Associate
-- ☁️ KodeKloud AWS Cloud Practitioner
-- ☁️ AWS Academy Cloud Foundations & Architecting
-
----
-
-### 💬 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" />
-</p>
+| Certification | Provider |
+|----------------|----------|
+| AWS Certified Solutions Architect – Associate (SAA-C03) | AWS |
+| AWS Certified Cloud Practitioner | AWS |
+| AWS Cloud Practitioner Essentials | AWS |
+| AWS Cloud Quest: Cloud Practitioner | AWS |
+| Microsoft Certified Azure Fundamentals (AZ-900) | Microsoft |
+| Google Cloud ACE Track | Google Cloud |
+| Oracle Cloud Infrastructure Foundations & AI Associate | Oracle |
+| KodeKloud AWS Cloud Practitioner | KodeKloud |
+| AWS Academy Cloud Foundations & Architecting | AWS Academy |
 
 ---
 
-### 🤝 Let’s Connect
+# 🌟 Community & Programs
 
-<p align="center">
-  <a href="https://linkedin.com/in/ruturaj-sonone-552b7623b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:ruturajsonone@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://medium.com/@ruturajsonone"><img src="https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge" /></a>
-  <a href="https://linktr.ee/ruturaj_sonone"><img src="https://img.shields.io/badge/Linktree-green?logo=linktree&style=for-the-badge" /></a>
-</p>
+- 🚀 AWS Emerging Talent
+- 👩‍💻 Microsoft Learn Student Ambassador (MLSA)
+- 🎮 Google Arcade
 
 ---
 
-<p align="center">
-  <strong>“Helping engineers grow through open-source and cloud-native tech. Let’s build something impactful together!”</strong>
-</p>
+# 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/ruturaj-sonone-552b7623b/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:ruturajsonone@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge)](https://medium.com/@ruturajsonone)
+[![Linktree](https://img.shields.io/badge/Linktree-green?logo=linktree&style=for-the-badge)](https://linktr.ee/ruturaj_sonone)
+
+### 💬 *"Building and securing cloud-native systems, one pipeline at a time. Let's connect and grow together!"*
+
+</div>
